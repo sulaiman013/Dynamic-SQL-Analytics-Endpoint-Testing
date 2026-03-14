@@ -1,0 +1,4 @@
+voyagehub_dataset/
+__pycache__/
+*.pyc
+.env
